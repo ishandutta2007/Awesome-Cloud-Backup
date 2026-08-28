@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Veeam](https://www.veeam.com/)**  
-
-  Market-leading backup and recovery platform especially strong for virtual environments (VMware, Hyper-V), with broad workload coverage and ransomware protection features.
-
-
-
-- **[Acronis](https://www.acronis.com/)**  
-
-  Cyber protection platform combining backup, anti-malware, and recovery for endpoints, servers, and cloud workloads.
-
-
-
-- **[Backblaze](https://www.backblaze.com/)**  
-
-  Simple, affordable cloud backup for computers and B2 cloud storage — popular for personal and small-business use.
-
-
-
-- **[Carbonite](https://www.carbonite.com/)**  
-
-  Cloud and hybrid backup solutions for small businesses and endpoints with straightforward recovery workflows.
-
-
-
-- **[Druva](https://www.druva.com/)**  
-
-  Cloud-native SaaS data protection for endpoints, SaaS applications, and cloud workloads with no on-premises infrastructure.
-
-
-
-- **[Cohesity](https://www.cohesity.com/)**  
-
-  Enterprise data platform for backup, recovery, and secondary data management with strong scale-out architecture.
-
-
-
-- **[Commvault](https://www.commvault.com/)**  
-
-  Enterprise backup, recovery, and data management platform with broad workload support and cyber-resilience capabilities.
-
-
-
-- **[CrashPlan](https://www.crashplan.com/)**  
-
-  Endpoint backup focused on continuous protection and recovery for business devices.
-
-
-
-- **[NAKIVO](https://www.nakivo.com/)**  
-
-  Backup and replication solution for VMs, physical servers, and cloud environments with competitive pricing.
-
-
-
-- **[HYCU](https://www.hycu.com/)**  
-
-  Application-aware backup and recovery oriented toward multi-cloud and SaaS data protection.
+| Platform | Description | Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Veeam](https://www.veeam.com/)** | Market-leading backup and recovery platform especially strong for virtual environments (VMware, Hyper-V), with broad workload coverage and ransomware protection features. | Paid tier starts at ~$250/workload/year (Veeam Universal License, sold in 5-10 pack bundles). | **Free Edition:** Forever free up to 10 workloads (VMs, physical servers, or cloud instances). 30-day fully functional trial for enterprise editions. |
+| **[Acronis](https://www.acronis.com/)** | Cyber protection platform combining backup, anti-malware, and recovery for endpoints, servers, and cloud workloads. | Paid plans start at $49.99/year (Essentials tier, 1 PC/Mac local backup). | **Free Trial:** 30-day full-featured trial with up to 1 TB cloud storage. No permanent free tier. |
+| **[Backblaze](https://www.backblaze.com/)** | Simple, affordable cloud backup for computers and B2 cloud storage — popular for personal and small-business use. | Computer Backup: $9/month or $99/year per computer (unlimited data). B2 Cloud Storage: $0.006/GB/month ($6/TB/month). | **B2 Storage:** 10 GB free forever storage (with free egress up to 3x monthly storage). **Computer Backup:** 15-day full-featured trial with no credit card required. |
+| **[Carbonite](https://www.carbonite.com/)** | Cloud and hybrid backup solutions for small businesses and endpoints with straightforward recovery workflows. | Paid plans start at $4.99/month (billed annually at $59.99 - $95.99/year for Safe Basic, 1 PC/Mac unlimited storage). Safe Pro starts at $24/month ($287.99/year for up to 25 devices, 250 GB base). | **Free Trial:** 15-day trial for Carbonite Safe (personal); 30-day trial for Carbonite Safe Pro (business). Backup data retained for 15–30 days post-trial. No permanent free tier. |
+| **[Druva](https://www.druva.com/)** | Cloud-native SaaS data protection for endpoints, SaaS applications, and cloud workloads with no on-premises infrastructure. | Plans start at $8/user/month (inSync endpoint protection) or $2.50/user/month (Microsoft 365/Google Workspace protection). | **Free Trial:** 30-day full-featured trial (can be extended up to 60 days upon request) with full backup and restore capabilities. No permanent free tier. |
+| **[Cohesity](https://www.cohesity.com/)** | Enterprise data platform for backup, recovery, and secondary data management with strong scale-out architecture. | Subscriptions start at ~$150 - $500/TB/year (DataProtect as a Service entry point ~$2,425/month or $29,100/year for 10 BETB via cloud marketplaces). | **Free Trial:** 30-day full-featured trial for Cohesity Cloud Services (CCS) and DataProtect as a Service (DPaaS). No permanent free tier. |
+| **[Commvault](https://www.commvault.com/)** | Enterprise backup, recovery, and data management platform with broad workload support and cyber-resilience capabilities. | SaaS protection (Commvault Cloud / Metallic) starts at $1.70 - $3.00/user/month for SaaS apps (e.g. M365) and ~$25/TB/month for file/VM workloads. | **Free Trial:** 30-day full-featured trial for Commvault Cloud / Metallic with no credit card required. No permanent free tier. |
+| **[CrashPlan](https://www.crashplan.com/)** | Endpoint backup focused on continuous protection and recovery for business devices. | Paid plans start at $8/user/month ($88/user/year) for Endpoint Backup (unlimited cloud storage) or $4/user/month for Microsoft 365 Backup (50 GB storage/user). | **Free Trial:** 14-day full-featured trial for Endpoint and M365 backup (requires card on signup). No permanent free tier. |
+| **[NAKIVO](https://www.nakivo.com/)** | Backup and replication solution for VMs, physical servers, and cloud environments with competitive pricing. | Pro Subscription starts at $2.45/workload/month ($29.40/workload/year). Perpetual licenses start at $19/workstation. | **Free Edition:** Forever free (1-year renewable license) for up to 10 workloads (VMs/servers/cloud) and 5 Microsoft 365 users. 15-day unrestricted trial for Enterprise edition. |
+| **[HYCU](https://www.hycu.com/)** | Application-aware backup and recovery oriented toward multi-cloud and SaaS data protection. | SaaS app protection starts at $1.20 - $2.25/user/month (e.g. Okta/M365); AWS/Azure/GCP cloud workload protection starts at $2.00 - $3.00/workload/month or consumption starter bundles ($99/month). | **Free Trial:** 14-day full-featured trial for HYCU R-Cloud and multi-cloud protection modules. Permanent free tier available for select basic AWS snapshot tiers. |
 
 
 
